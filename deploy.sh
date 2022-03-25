@@ -1,1 +1,1 @@
-echo "Shel script para deploy"
+echo "Shell script para deploy"
